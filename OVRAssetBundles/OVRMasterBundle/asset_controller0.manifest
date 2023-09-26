@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4117831811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f9ab524df7923350d9adc93a558ab86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8df1f9f82371e82de919a94edcc7dd6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UI/OuterUi.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProRightAnimation.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProLeftAnimation.controller
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
+Dependencies:
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_fbx0

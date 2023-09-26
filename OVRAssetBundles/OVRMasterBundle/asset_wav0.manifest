@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 111311614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81fec9e817c4685966c4334eef26332e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sound/Dreams/Polina Gladkova-1.WAV
+- Assets/Sound/Dreams/Myroslava Kuts 1-1.WAV
+- Assets/Sound/Dreams/Yadigar Sosa-1.WAV
+- Assets/Sound/Dreams/Safa Ben Mekki AR-1.WAV
+- Assets/Sound/Dreams/Reeve Schumacher-1.WAV
+- Assets/Sound/Dreams/Blue-1.WAV
+- "Assets/Sound/Dreams/Yann Bruye\u0300re-1.WAV"
+Dependencies: []

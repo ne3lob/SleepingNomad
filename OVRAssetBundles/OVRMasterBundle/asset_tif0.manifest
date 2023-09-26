@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2954261014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 248aa09daff6bb5c7557358cf26bb3c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ADG_Textures/Foam Textures/foam1/back-foam_Diffuse invert.tif
+- Assets/AmplifyShaderPack/Assets/Common/Textures/SceneTextures/CanvasNormal.tif
+- Assets/ADG_Textures/Foam Textures/foam1/back-foam_Diffuse.tif
+Dependencies: []

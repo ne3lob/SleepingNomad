@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4054861452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 468c462d478e34b376cb63701dddfb1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5941c3541d8b403f80e37b0d697371e8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UI/New Animation.anim
+Dependencies: []

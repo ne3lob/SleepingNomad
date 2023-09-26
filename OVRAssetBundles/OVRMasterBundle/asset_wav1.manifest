@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1758074843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9eb4686deaf5a552d1a1c5401dcebe2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sound/Dreams/Ida Dalsgaard Nicolaisen 4-1.wav
+- Assets/Sound/Lullaby/E/E-Dry 1-alesya Lullaby belarus traditional.wav
+- Assets/Sound/Lullaby/A/A-Dry 1-alesya Lullaby belarus traditional.wav
+- Assets/Sound/Lullaby/A/A-Dry 2-alesya Lullaby belarus traditional.wav
+- Assets/Sound/Dreams/Alkistis Voulgari 1.wav
+- Assets/Sound/Dreams/Takako-1.wav
+- Assets/Sound/Dreams/Julien-Hampartzoumian-2.wav
+- Assets/Sound/Dreams/Maggie Oran-1.wav
+- Assets/Sound/Dreams/Marie Kompaniets 2-1.wav
+- Assets/Sound/Lullaby/E/E-Dry 2-alesya Lullaby belarus traditional.wav
+- Assets/Sound/Dreams/Alesya dream about DJ party Linh English -  El HAcedor Spain
+  2022.wav
+- Assets/Sound/Dreams/Ida Dalsgaard Nicolaisen 3-1.wav
+- Assets/Sound/Lullaby/C/C-Dry 1-alesya Lullaby belarus traditional.wav
+- Assets/Sound/Dreams/Dorien Dream - Wish Spain El HAcedor Spain 2022.wav
+- Assets/Sound/Dreams/Anais Dream Catalon El HAcedor Spain 2022.wav
+- Assets/Sound/Dreams/Alex Koppel - kopie-1.wav
+- Assets/Sound/Dreams/Sarah Mohr Dream 2 -  El HAcedor Spain 2022.wav
+- Assets/Sound/Lullaby/A/A-Dry 4-Katerina and ALesya after  Lullaby kjukju singin.wav
+- Assets/Sound/Lullaby/B/B-Dry 2-alesya Lullaby belarus traditional.wav
+- Assets/Sound/Dreams/Alesya dream about NY purple eyes roof English -  El HAcedor
+  Spain 2022.wav
+- Assets/Sound/Dreams/Luciana Dream - Brasil El HAcedor Spain 2022.wav
+- Assets/Sound/Dreams/Alesya dream about Apacaliypce English -  El HAcedor Spain
+  2022.wav
+- Assets/Sound/Dreams/Wei Kang Beh english flowting dream-1.wav
+- Assets/Sound/Dreams/Yadigar Sosa arabic.wav
+- Assets/Sound/Dreams/Lucia Dream - Argentina El HAcedor Spain 2022.wav
+- Assets/Sound/Dreams/Sarah Mohr Dream 1 -  El HAcedor Spain 2022.wav
+- Assets/Sound/Dreams/Ida Dalsgaard Nicolaisen 2-1.wav
+- Assets/Sound/Dreams/Janina 14 to 15 september 2022 alm residency.wav
+- Assets/Sound/Lullaby/D/D-Dry 2-alesya Lullaby belarus traditional.wav
+- Assets/Sound/Lullaby/C/C-Dry 3-Katerina KAdijevic Lullaby.wav
+Dependencies: []

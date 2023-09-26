@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1418973488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac9b9ba4fb1a4ed76d3d9bf8672f3fc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe621a680d49002349f280d74c83e5ab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Right.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/untitled.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Prefabs/Case 1.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+- Assets/Prefabs/Spheres.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Prefabs/abs.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/ThirdParty/Oculus/VR/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Left.fbx
+Dependencies:
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_mat0

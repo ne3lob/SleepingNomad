@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 711274359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bf939070639dd8bcdb630c1642e620e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/LinearThreeColorGradientSkybox.shader
+- Assets/AmplifyShaderPack/Built-In Samples/Community ForceShield/ForceShield.shader
+- Assets/AmplifyShaderPack/Built-In Samples/SimpleRefraction/SimpleRefraction.shader
+- Assets/ThirdParty/Oculus/Interaction/Runtime/Shaders/UnlitTransparentColor.shader
+- Assets/AmplifyShaderPack/Built-In Samples/Stencil Portals/Refraction Panel/Stencil
+  Refraction Panel.shader
+- Assets/AmplifyShaderPack/Built-In Samples/Community LowPolyWater/LowPolyWater.shader
+- Assets/AmplifyShaderPack/Built-In Samples/ParticlesHeatHaze/ParticlesHeatHaze.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+- Assets/ThirdParty/Oculus/Interaction/Runtime/Shaders/OculusHand.shader
+- Assets/AmplifyShaderPack/Built-In Samples/Community HologramSimple/Hologram Simple.shader
+Dependencies: []

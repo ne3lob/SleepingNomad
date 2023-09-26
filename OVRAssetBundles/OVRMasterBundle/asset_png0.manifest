@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3375225320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddbeb5d2261908fe097f7efbb1ac84b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AmplifyShaderPack/Assets/Common/Textures/Misc/ForceShieldWaves 1.png
+- Assets/AmplifyShaderPack/Assets/Common/Textures/Misc/PortalNormal.png
+- Assets/AmplifyShaderPack/Assets/Common/Textures/Misc/SmallWaves.png
+- Assets/ADG_Textures/Foam Textures/foam1/00110.png
+- Assets/ThirdParty/Oculus/VR/Textures/MetaQuestTouchPro/controller_l_lo_Normal.png
+- Assets/ThirdParty/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/ThirdParty/Oculus/VR/Textures/MetaQuestTouchPro/controller_r_lo_Normal.png
+- Assets/ThirdParty/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
+- Assets/ThirdParty/Oculus/VR/Textures/MetaQuestTouchPro/controller_r_lo_BaseColor.png
+- Assets/ThirdParty/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
+- Assets/ThirdParty/Oculus/VR/Textures/MetaQuestTouchPro/controller_l_lo_BaseColor.png
+- Assets/ThirdParty/Oculus/VR/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+- Assets/AmplifyShaderPack/Assets/Common/Textures/Misc/ForceShieldWaves.png
+Dependencies: []

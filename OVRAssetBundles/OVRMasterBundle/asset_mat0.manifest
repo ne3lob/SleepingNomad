@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2207070974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62f11725ff07b889ed1303aa7afc3bf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/Hologram Simple 2.mat
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Materials/3.mat
+- Assets/AmplifyShaderPack/Built-In Samples/ParticlesHeatHaze/ParticlesHeatHaze.mat
+- Assets/Editor/SkyboxSleepingNomand.mat
+- Assets/ThirdParty/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.mat
+- Assets/AmplifyShaderPack/Built-In Samples/Stencil Portals/Refraction Panel/Stencil
+  Refraction Panel 04.mat
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Materials/2.mat
+- Assets/Materials/1.mat
+- Assets/AmplifyShaderPack/Built-In Samples/Community ForceShield/ForceShield.mat
+- Assets/ThirdParty/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/batteryIndicator_mat.mat
+- Assets/ThirdParty/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/ThirdParty/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/AmplifyShaderPack/Built-In Samples/SimpleRefraction/SimpleRefraction.mat
+- Assets/ThirdParty/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.mat
+- Assets/ThirdParty/Oculus/Interaction/Runtime/Materials/GrabDebugSphere.mat
+- Assets/ThirdParty/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+Dependencies:
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/chris/OneDrive/Dokumente/Unity Projects/SleepingNomadVR/OVRAssetBundles/OVRMasterBundle/asset_tif0
